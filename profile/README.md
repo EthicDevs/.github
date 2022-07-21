@@ -23,3 +23,4 @@ Our moto: accessible, beautiful, fast and modern. These are the 4 concept drivin
 - [react-global-state-hooks-debugger](https://github.com/ethicdevs/react-global-state-hooks-debugger)
 - [react-global-state-router](https://github.com/ethicdevs/react-global-state-router)
 - [fastify-stream-react-views](https://github.com/ethicdevs/fastify-stream-react-views)
+- [react-monolith](https://github.com/ethicdevs/react-monolith)
